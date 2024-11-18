@@ -1,13 +1,13 @@
 ![image](https://github.com/user-attachments/assets/63bee4a1-7cfa-4f29-ab80-c7b33192504c)
 
-Short description:
+### Short description
 It is a storage unit designed for automatic sheet metal processing machine. It has 5 storage positions on vertical, each one with a normal adapter for parts loading/unloading and,  another position from below which has a special adapter used to  transfer parts to the processing machine. This special adapter can be pushed inside to make space for interchanging the parts storage positions.
 
 
 Hw/Sw:\
 CPU: S7-300 / Simatic STEP7 V5.5\
 HMI: OP17 / ProTool 6
-
+<br/>
 ### Program blocks architecture
 
 ![ver1-Blocks_architecture](https://github.com/user-attachments/assets/8f45fb86-d8ea-47d2-972b-ed8f81c98f80)
